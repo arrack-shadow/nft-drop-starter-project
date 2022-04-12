@@ -1,0 +1,19 @@
+{
+    "name": "Goto go Home",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "AMi5g7iwz8DgQjfbReCSkESHPWYEAepj5R3YHgLcwk18",
+          "share": 100
+        }
+      ]
+    }
+  }
